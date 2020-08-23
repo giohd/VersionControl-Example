@@ -7,8 +7,6 @@ public class GameManager : MonoBehaviour
 	/// <summary>
 	/// Singleton
 	/// </summary>
-
-
     public static GameManager instance = null; //Declaring and initialzing a public static manager class to null. 
     public int HP = 3;
 
